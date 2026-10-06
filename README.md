@@ -1,5 +1,3 @@
-# credit-card-default-prediction
-Machine learning project for predicting credit card defaults using the UCI Credit Card Default dataset, feature engineering, SMOTE, PCA, and multiple classification models.
 # Credit Card Default Prediction
 
 Machine learning project for predicting whether a credit card customer will default on their payment in the following month using the UCI Credit Card Default Dataset.
